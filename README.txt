@@ -1,4 +1,4 @@
-# COSC2753 A1 - s3978387
+# This is an individual assignments for the course Machine Learning, please see the PDF file for details
 # Instructions to Run the Project
 
 ## 1. Install Required Packages
